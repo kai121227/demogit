@@ -1,0 +1,75 @@
+@charset "utf-8";
+body {
+    background-color: #808080;
+}
+.container h1 .chu1 {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 30px;
+    margin-top: 13px;
+}
+.card.col-md-4.col-xl-12 .card-body .card-title {
+    color: #183A5A;
+}
+.card.col-md-4.col-xl-12 .card-body .card-text {
+    color: #3F5788;
+}
+.col-xl-3 .card.col-md-4.col-xl-12 .card-img-top {
+    margin-top: 18px;
+}
+.container-fluid .container #accordion1 {
+    margin-top: 27px;
+}
+.card #collapseOne1 .card-body {
+    color: #3A50BC;
+}
+.card #collapseTwo1 .card-body {
+    color: #3A50BC;
+}
+.card #collapseThree1 .card-body {
+    color: #3A50BC;
+}
+.card #collapseThree2 .card-body {
+    color: #3A50BC;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #194398;
+    font-family: tahoma;
+    font-weight: bold;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    font-family: tahoma;
+    color: #1A3DAC;
+}
+#navbarSupportedContent1 .form-inline.my-2.my-lg-0 .form-control.mr-sm-2 {
+    color: #407084;
+}
+#navbarSupportedContent1 .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+    color: #000000;
+}
+
+
+.navbar-nav.mr-auto .nav-item .nav-link {
+    text-shadow: 0px 0px #85B9F7;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(47,78,108,1.00) 0%,rgba(255,255,255,1.00) 48.70%,rgba(43,51,71,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(47,78,108,1.00) 0%,rgba(255,255,255,1.00) 48.70%,rgba(43,51,71,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(47,78,108,1.00) 0%,rgba(255,255,255,1.00) 48.70%,rgba(43,51,71,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(47,78,108,1.00) 0%,rgba(255,255,255,1.00) 48.70%,rgba(43,51,71,1.00) 100%);
+}
+.container #accordion1 .end {
+    width: 1111px;
+    height: 50px;
+    background-image: -webkit-linear-gradient(270deg,rgba(47,78,108,1.00) 0%,rgba(255,255,255,1.00) 48.19%,rgba(43,51,71,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(47,78,108,1.00) 0%,rgba(255,255,255,1.00) 48.19%,rgba(43,51,71,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(47,78,108,1.00) 0%,rgba(255,255,255,1.00) 48.19%,rgba(43,51,71,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(47,78,108,1.00) 0%,rgba(255,255,255,1.00) 48.19%,rgba(43,51,71,1.00) 100%);
+}
+#accordion1 .end .chu2 {
+    margin-left: 416px;
+    margin-top: -35px;
+    font-family: tahoma;
+    font-weight: bold;
+    color: #2E3A4E;
+}
